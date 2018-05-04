@@ -1,7 +1,7 @@
 from tkinter import *
-about_view = Tk()
 
 def display_about_view():
+    about_view = Tk()
     about_view.title("Taller GIT - Sobre Nosotros") 
     about_view.minsize(500,500) 
     about_view.maxsize(500,500)
