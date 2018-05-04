@@ -1,6 +1,6 @@
 from tkinter import *
-import license
-import about
+#import license
+#import about
 #Label(etiqueta)
  
 root = Tk() # Tk initialize
